@@ -1,6 +1,6 @@
 # OstomyProject
 
-Working with Meredith Sharp & Christina Bruster from OU Children's Hospital.
+Credits: Meredith Sharp as designer, Bobby Reed and Jessica Lumry as creators, and Christina Bruster as contributor.
 
 The model will be used to educate patients, age 17 years and under, that are able to learn and perform the necessary skills. The model will also teach parents, caregivers, and staff nurses.
 
