@@ -1,6 +1,6 @@
 # OstomyProject
 
-##Credits
+## Credits
 Designer: Meredith Sharp
 Creators: Jessica Lumry and bobby reed
 Contributor(s): Christina Bruster
