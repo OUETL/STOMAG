@@ -2,7 +2,9 @@
 
 ## Credits
 Designer: Meredith Sharp
+
 Creators: Jessica Lumry and bobby reed
+
 Contributor(s): Christina Bruster
 
 The model will be used to educate patients, age 17 years and under, that are able to learn and perform the necessary skills. The model will also teach parents, caregivers, and staff nurses.
