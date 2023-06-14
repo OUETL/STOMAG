@@ -1,9 +1,12 @@
-# OstomyProject
+# STOMAG - A 3D-printable stoma simulating teaching tool
 
 ## Credits
-Designer: Meredith Sharp
+Concept: Meredith Sharp
 
-Creators: Jessica Lumry and bobby reed
+Design: bobby reed
+CAD design: bobby reed
+
+Manufacturing: Jessica Lumry
 
 Contributor(s): Christina Bruster
 
