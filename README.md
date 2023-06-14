@@ -3,12 +3,11 @@
 ## Credits
 Concept: Meredith Sharp
 
-Design: bobby reed
-CAD design: bobby reed
+Contributor(s): Christina Bruster
+
+Design and CAD: bobby reed
 
 Manufacturing: Jessica Lumry
-
-Contributor(s): Christina Bruster
 
 The model will be used to educate patients, age 17 years and under, that are able to learn and perform the necessary skills. The model will also teach parents, caregivers, and staff nurses.
 
